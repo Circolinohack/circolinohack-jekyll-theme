@@ -9,8 +9,7 @@ nav-menu: true
 - Innovation
 - Friendship
 - Openness
-- Sharing
-- Caring
+- Sharing for Caring
 - Fun
 
 ## Our Essence
