@@ -1,13 +1,23 @@
 ---
 layout: post
-title: Generic
-description: Lorem ipsum dolor est
+title: About Us
+description: Who We Are
 image: assets/images/pic11.jpg
 nav-menu: true
 ---
 
-Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.
+# Circolino Hack
+Circolino Hack is the result of the meeting of a group of people sharing a similar mindset and the same passion for
+everything that is innovation, technology and science.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel sed vehicula.
+In Circolino Hack we believe in the values of friendship and openness. We love cutting-edge and innovative solutions,
+and we share ideas, knowledge and experiences, supporting each other and pushing ourselves to the next level.
 
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.
+Innovation and research are at the very heart of Circolino Hack.
+However, we put the heart in it, and not a single day goes by without a healthy dose of humor.
+
+## Our Essence
+We’re genuine, innovative, collaborative, inclusive, energetic. And, of course, a bit Nerds.
+
+## Our Vibe
+We apply ourselves to uncover the future of tech in an ethical, inclusive and open way.
