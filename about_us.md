@@ -2,7 +2,6 @@
 layout: post
 title: About Us
 description: Who We Are
-image: assets/images/pic11.jpg
 nav-menu: true
 ---
 
