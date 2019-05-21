@@ -1,17 +1,17 @@
 # site settings
 title: Circolino Hack
 subtitle: a group of fantastic nerds
-email: youremailaddress@gmail.com
+email: info@circolinohack.com
 description: a group of fantastic nerds
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: Circolino Hack
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+street_address: localhost
+city:
+state:
+zip_code:
+country: :D
+phone: 127.0.0.1
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
