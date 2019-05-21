@@ -14,7 +14,7 @@ In Circolino Hack we believe in the values of friendship and openness. We love c
 and we share ideas, knowledge and experiences, supporting each other and pushing ourselves to the next level.
 
 Innovation and research are at the very heart of Circolino Hack.
-However, we put the heart in it, and not a single day goes by without a healthy dose of fun.
+However, we put the :hearts: in it, and not a single day goes by without a healthy dose of fun.
 
 ## Our Essence
 We’re genuine, innovative, collaborative, inclusive, energetic. And, of course, a bit Nerds.

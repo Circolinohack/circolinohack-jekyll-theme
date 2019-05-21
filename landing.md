@@ -24,7 +24,7 @@ nav-menu: true
       <br>
       <br>
       Innovation and research are at the very heart of Circolino Hack.
-      However, we put the heart in it, and not a single day goes by without a healthy dose of fun.
+      However, we put the :hearts: in it, and not a single day goes by without a healthy dose of fun.
    </p>
 	</div>
 </section>
@@ -73,7 +73,7 @@ nav-menu: true
 				</header>
 				<p>
 				  Innovation and research are at the very heart of Circolino Hack.
-      However, we put the heart in it, and not a single day goes by without a healthy dose of fun.
+      However, we put the :hearts: in it, and not a single day goes by without a healthy dose of fun.
 				</p>
 			</div>
 		</div>

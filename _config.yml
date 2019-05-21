@@ -10,7 +10,7 @@ street_address: localhost
 city:
 state:
 zip_code:
-country: :D
+country: ":nerd_face:"
 phone: 127.0.0.1
 
 # homepage tiles
@@ -34,3 +34,7 @@ markdown: kramdown
 
 sass:
   style: compressed
+
+# Plugins
+plugins:
+  - jemoji
