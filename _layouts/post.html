@@ -15,14 +15,24 @@
 					<h1>{{ page.title }}</h1>
 				</header>
 
-				{% if page.crossposted %}
-				<em>This article was originally posted <a href="{{ page.crossposted }}">here</a> </em>
-				{% endif %}
-
 				{% if page.date %}
 				<h4>
 					<time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date_to_string }}</time>
 				</h4>
+				{% endif %}
+
+				{% if page.crossposted %}
+				<em>This article was originally posted <a href="{{ page.crossposted }}">here</a> </em>
+				{% endif %}
+
+				{% if page.author and page.author_email %}
+				<h5>
+				<em>Author: <a href="mailto: {{ page.author_email }}">{{ page.author }}</a> </em>
+				</h5>
+				{% elsif page.author %}
+				<h5>
+				<em>Author: {{ page.author }}</em>
+				</h5>
 				{% endif %}
 
 				{% if page.image %}

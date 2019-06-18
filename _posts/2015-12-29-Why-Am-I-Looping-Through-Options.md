@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Why Am I Looping Through Options??
+author: Vincibean
+author_email: owl@circolinohack.com
 crossposted: https://vincibean.github.io/2015/12/29/Why-Am-I-Looping-Through-Options.html
 ---
 For those like me who started with imperative programming, functional programming may seem like a minefield, 

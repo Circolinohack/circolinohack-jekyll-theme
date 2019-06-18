@@ -1,6 +1,8 @@
 ---
 layout: post
 title: How To Delete Spark Job Server's Temporary Files
+author: Vincibean
+author_email: owl@circolinohack.com
 crossposted: https://vincibean.github.io/2015/12/31/How-To_Delete_Spark_Temporary-Files.html
 ---
 My colleagues and I are working on a system that should interoperate with Apache Spark. The idea behind this interoperability

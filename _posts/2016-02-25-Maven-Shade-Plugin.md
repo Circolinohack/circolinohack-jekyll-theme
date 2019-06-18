@@ -1,6 +1,8 @@
 ---
 layout: post
 title: The Shaded Documentation of Maven Shade Plugin
+author: Vincibean
+author_email: owl@circolinohack.com
 crossposted: https://vincibean.github.io/2016/02/25/Maven-Shade-Plugin.html
 ---
 Shit Happens. Especially when dealing with many dependencies in a complex system, shit happens.   

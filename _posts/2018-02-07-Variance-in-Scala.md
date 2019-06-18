@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Some Thoughts about Variance in Scala 
+author: Vincibean
+author_email: owl@circolinohack.com
 crossposted: https://vincibean.github.io/2018/02/07/Variance-in-Scala.html
 ---
 Some time ago (so long ago!) I was asked by a fledgling (at the time) Scala developer to explain how covariance, 
