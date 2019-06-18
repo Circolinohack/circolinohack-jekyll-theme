@@ -15,6 +15,10 @@
 					<h1>{{ page.title }}</h1>
 				</header>
 
+				{% if page.crossposted %}
+				<em>This article was originally posted <a href="{{ page.crossposted }}">here</a> </em>
+				{% endif %}
+
 				{% if page.date %}
 				<h4>
 					<time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date_to_string }}</time>

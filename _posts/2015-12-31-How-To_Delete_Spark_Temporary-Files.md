@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How To Delete Spark Job Server's Temporary Files
+crossposted: https://vincibean.github.io/2015/12/31/How-To_Delete_Spark_Temporary-Files.html
 ---
 My colleagues and I are working on a system that should interoperate with Apache Spark. The idea behind this interoperability
 is to send [Spark Job Server](https://github.com/spark-jobserver/spark-jobserver) a JAR package containing classes that, whenever invoked from the system, should deal with Spark.

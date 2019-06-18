@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Some Thoughts about Variance in Scala 
+crossposted: https://vincibean.github.io/2018/02/07/Variance-in-Scala.html
 ---
 Some time ago (so long ago!) I was asked by a fledgling (at the time) Scala developer to explain how covariance, 
 contravariance and invariance work in Scala. Just like me, he came from Java, so getting all the technicalities of 
